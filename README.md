@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b3cb877b-4bb6-422d-bcba-257d0fa02193) and start prompting.
+Simply visit the [coding practice app](https://preview--stellar-python-games.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/b3cb877b-4bb6-422d-bcba-257d0fa02193) and click on Share -> Publish.
+Simply open [coding practice app](https://preview--stellar-python-games.lovable.app/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
