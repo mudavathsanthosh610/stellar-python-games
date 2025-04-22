@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://staller python game /projects/b3cb877b-4bb6-422d-bcba-257d0fa02193
+**URL**: https://loveable .dive/projects/b3cb877b-4bb6-422d-bcba-257d0fa02193
 
 ## How can I edit this code?
 
